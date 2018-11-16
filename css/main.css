@@ -38,10 +38,11 @@ input, textarea {
     padding: 15px;
     border-radius: 10px;
     border-color: transparent;
+    resize: none;
 }
 
 input::placeholder {
-    
+
 }
 
 form {
